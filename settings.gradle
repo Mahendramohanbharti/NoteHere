@@ -1,0 +1,2 @@
+rootProject.name='Note Here'
+include ':app'
